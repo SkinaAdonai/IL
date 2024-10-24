@@ -129,19 +129,19 @@ function App() {
           </div>
           <div className="footer-section">
             <h3>Follow Me</h3>
-            <nav className="social-links">
+            <div className="social-links">
               <a href="https://www.instagram.com/skina.adonai_/" target="_blank" rel="noopener noreferrer">Instagram</a>
               <a href="https://github.com/SkinaAdonai" target="_blank" rel="noopener noreferrer">GitHub</a>
               <a href="https://www.linkedin.com/in/skina-adonai/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            </nav>
+            </div>
           </div>
           <div className="footer-section">
             <h3>Resources</h3>
-            <nav className="resource-links">
+            <div className="resource-links">
               <a href="#home">Home</a>
               <a href="#about">About</a>
               <a href="#contact">Contact</a>
-            </nav>
+            </div>
           </div>
         </div>
         <div className="footer-bottom">
